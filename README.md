@@ -1,0 +1,2 @@
+# Covid-19-Tracker-in-Python
+HELLO , FRIENDS IN THIS REPOSITORY I WILL SHOW YOU HOW TO MAKE COVID-19 TRACKER APP IN PYTHON EASY AND FAST STEP BY STEP. LINK :- https://www.youtube.com/watch?v=BzwQTkgqWO4&amp;list=PLeEDVoVpJGZYjBBGNzYy3BuuOnCdRd7Pj&amp;index=5&amp;ab_channel=TECHMAHASAY
